@@ -7,9 +7,9 @@
 
 ⚛️ Now I’m a React.js developer with the core fundamentals of JavaScript, providing resilient features with REST API on top.
 
-😄 Yet I prefer discuss about programming good products, instead of what language or framework is the best
+😄 Yet I prefer discuss about programming good products, instead of what language or framework is the best.
 
-## Latest Proyects
+## Latest Projects
 
 ## Skills
 * React.js

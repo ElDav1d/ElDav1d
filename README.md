@@ -13,7 +13,7 @@
 
 ### [CoverGig](https://covergig.netlify.app/)
 
-CoverGig is a MERN app for the rental of instruments and sound equipment for concerts between individuals.
+CoverGig is a MERN app for music equipment rental among particulars. Its purpose is facilitating the backline coverage on small gigs.
 
 Link to Front End repo: https://github.com/Pepirob/gig-equipment-rental-client
 

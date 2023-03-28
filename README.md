@@ -1,11 +1,13 @@
 # Hi there 👋, my name is David
 ### I'm a Product Oriented Frontend Engineer
 
-Besides software craftsmanship, I also love making and listening music.
+🧱 ⚒️ 🖌 Besides software craftsmanship, I also love making and listening music.
 
-I consider myself a life-long learner.
+📖 I consider myself a life-long learner.
 
-Now I’m a React.js developer with the core fundamentals of JavaScript, providing resilient features with REST API on top. Yet I prefer discuss about programming good products, instead of what language or framework is the best.
+⚛️ Now I’m a React.js developer with the core fundamentals of JavaScript, providing resilient features with REST API on top.
+
+😄 Yet I prefer discuss about programming good products, instead of what language or framework is the best  
 
 ## Skills
 * React.js

@@ -11,7 +11,7 @@
 
 ## Latest Projects
 
-### CoverGig
+### [CoverGig](covergig.netlify.app/)
 
 CoverGig is a MERN app for the rental of instruments and sound equipment for concerts between individuals.
 

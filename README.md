@@ -11,6 +11,10 @@
 
 ## Latest Projects
 
+### CoverGig
+
+In collaboration with the awesome [Jose Luis Piñero](https://github.com/Pepirob)
+
 ## Skills
 * React.js
 * JavaScript ES6

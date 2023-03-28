@@ -21,6 +21,14 @@ Link to Back End repo: https://github.com/Pepirob/gig-equipment-rental-server
 
 In collaboration with the awesome [Jose Luis Piñero](https://github.com/Pepirob)
 
+## [DiscoLect](https://discolect.cyclic.app/)
+
+DiscoLect is platform for amateur music album reviewing powered by Spotifuy API and built with  MVC patterns built over a Express JS, MongoDB, Mongoose and HBS stack.
+
+In collaboration with the awesome [Jose Luis Piñero](https://github.com/Pepirob)
+
+Link to repo: https://github.com/Pepirob/discolect
+
 ## Skills
 * React.js
 * JavaScript ES6

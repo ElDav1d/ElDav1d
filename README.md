@@ -9,7 +9,7 @@
 
 😄 Yet I prefer discuss about programming good products, instead of what language or framework is the best.
 
-## Latest Projects
+## Latest Pet Projects
 
 ### [CoverGig](https://covergig.netlify.app/)
 

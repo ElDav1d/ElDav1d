@@ -1,5 +1,5 @@
 # Hi there 👋, my name is David
-### I'm a Product Oriented Frontend Engineer
+### I'm a passionate Product Oriented Frontend Engineer
 
 🧱 ⚒️ 🖌 Besides software craftsmanship, I also love making and listening music.
 

@@ -13,6 +13,12 @@
 
 ### CoverGig
 
+CoverGig is a MERN app for the rental of instruments and sound equipment for concerts between individuals.
+
+Link to Front End repo: https://github.com/Pepirob/gig-equipment-rental-client
+
+Link to Back End repo: https://github.com/Pepirob/gig-equipment-rental-server
+
 In collaboration with the awesome [Jose Luis Piñero](https://github.com/Pepirob)
 
 ## Skills

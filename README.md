@@ -29,7 +29,13 @@ In collaboration with the awesome [Jose Luis Piñero](https://github.com/Pepirob
 
 Link to repo: https://github.com/Pepirob/discolect
 
-## Skills
+### [Rrifflord Doomskulls Catcher](https://eldav1d.github.io/riff-lord-doomskulls-catcher/)
+
+A vertical oriented game where player moves horizontally, picking bonus items and avoiding collisions.It is ta deep diving into OOP patterns upon SOLID, CLEAN and AGILE principles; by only Vanilla JS programing on HTML 2d Canvas.
+
+Link to repo: https://github.com/ElDav1d/riff-lord-doomskulls-catcher
+
+## My Current Skills
 * React.js
 * JavaScript ES6
 * TypeScript

@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is David
 #### I'm a Product Oriented Frontend Engineer
-![I'm a Product Oriented Frontend Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Besides software craftsmanship, I also love making and listening music.
 

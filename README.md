@@ -1,7 +1,7 @@
 # Hi there 👋, my name is David
 ### I'm a passionate Product Oriented Front End Engineer
 
-🧱 ⚒️ 🖌 Besides software craftsmanship, I also love making and listening music.
+🧑‍💻🧱⚒️🖌 Besides software craftsmanship, 🎧🎸 I also love making and listening music.          
 
 📖 I consider myself a life-long learner.
 

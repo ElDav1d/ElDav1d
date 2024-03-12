@@ -21,7 +21,7 @@ This project is currently in progress.
 
 It's tested with Jest and React Testing Library with a user interaction approach.
 
-The purpose on it is practicing and showcasing my Accesible UI Development skills and sensibility,by keeping high standards of software quality  
+The purpose on it is practicing and showcasing my Accesible UI Development skills and sensibility, by keeping high standards of software quality  
 
 Link to repo: https://github.com/ElDav1d/playing-with-marvel-api
 

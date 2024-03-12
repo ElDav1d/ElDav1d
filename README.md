@@ -11,6 +11,20 @@
 
 ## Latest Pet Projects
 
+### Playing with Marvel API (WIP)
+
+This project is a SPA built with React, TypeScript and Tailwind CSS that mimics the look and feel of the Marvel Characters page.
+
+It fetches data from the Marvel API and allows users to navigate through a list of characters to a character detail page.
+
+This project is currently in progress.
+
+It's tested with Jest and React Testing Library with a user interaction approach.
+
+The purpose on it is practicing and showcasing my Accesible UI Development skills and sensibility,by keeping high standards of software quality  
+
+Link to repo: https://github.com/ElDav1d/playing-with-marvel-api
+
 ### [CoverGig](https://covergig.netlify.app/)
 
 CoverGig is a MERN app for music equipment rental among particulars. Its purpose is facilitating the backline coverage on small gigs.

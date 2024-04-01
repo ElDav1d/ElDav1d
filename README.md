@@ -13,7 +13,7 @@
 
 ### Playing with Marvel API (WIP)
 
-This project is a SPA built with React, TypeScript and Tailwind CSS that mimics the look and feel of the Marvel Characters page.
+This project is a SPA built with React, TypeScript and Tailwind CSS which mimics the look and feel of [the official Marvel Characters' page](https://www.marvel.com/characters).
 
 It fetches data from the Marvel API and allows users to navigate through a list of characters to a character detail page.
 

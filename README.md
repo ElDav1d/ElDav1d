@@ -19,13 +19,13 @@ It fetches data from the Marvel API and allows users to navigate through a list 
 
 This project is currently in progress.
 
-Link to [Playing with Marvel API](https://github.com/ElDav1d/playing-with-marvel-api)
+Link to [Playing with Marvel API's repo](https://github.com/ElDav1d/playing-with-marvel-api)
 
 It's tested with Jest and React Testing Library with a user interaction approach.
 
 The purpose on it is practicing and showcasing my Accesible UI Development skills and sensibility, by keeping high standards of software quality.  
 
-In order to abstract both domain and presentational logic, I'm extracting the UI patterns on its own UI components library [eldav1d-marvel-ui](https://www.npmjs.com/package/eldav1d-marvel-ui). This is also an ongoing effort. You can check it's progress on [its own repo](https://github.com/ElDav1d/eldav1d-marvel-ui)
+In order to abstract both domain and presentational logic, I'm extracting the UI patterns on its own UI components library [eldav1d-marvel-ui](https://www.npmjs.com/package/eldav1d-marvel-ui). This is also an ongoing effort. You can check it's progress on [its own eldav1d-marvel-ui repo](https://github.com/ElDav1d/eldav1d-marvel-ui)
 
 
 ### [CoverGig](https://covergig.netlify.app/)

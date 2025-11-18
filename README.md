@@ -11,14 +11,16 @@
 
 ## Latest Pet Projects
 
-### Playing with Marvel API (UNDER MAINTENTANCE)
-
+### Playing with Marvel API
 ---
 
-### ⚠️ Project temporarily unavailable (Marvel API sunset)
+## ⚠️ Important Note: Mock Data
 
-This project depended on the official **Marvel Developer API**, which was permanently shut down in November 2025.  
-As a result, the application currently returns **server errors** and is temporarily unavailable.
+This project originally consumed the official Marvel API, which has been discontinued.
+To maintain functionality and showcase the `eldav1d-marvel-ui` Design System capabilities,
+the application now uses statically mocked data.
+
+More info on at project's README
 
 ## 🎯 For recruiters & hiring managers
 ### ✅ UI Component Library unaffected
